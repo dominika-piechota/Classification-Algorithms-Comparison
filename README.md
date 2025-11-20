@@ -1,21 +1,21 @@
 # 🧠 Machine Learning – Classification Algorithms
 
-This repository contains an implementation and analysis of several classical machine learning classification methods as part of an academic project. The work explores how different models behave on synthetic and real datasets, with a focus on decision boundaries.
+This repository contains an implementation and analysis of several classical machine learning classification methods as part of an academic project (**Introduction to Machine Learning course**). The work explores how different models behave on synthetic and real datasets, with a focus on decision boundaries.
 
 ## 🔍 Overview
 
 The project investigates four supervised learning methods:
 
-* 🌳 **Decision Trees**
+* **Decision Trees**
   Analysis of model depth, underfitting/overfitting behavior, generalization performance, and visual decision boundaries.
 
-* 🤝 **k-Nearest Neighbors (kNN)**
+* **k-Nearest Neighbors (kNN)**
   Exploration of how different *k* values influence smoothness of decision boundaries, sensitivity to noise, and classification accuracy.
 
-* 📐 **Linear Discriminant Analysis (LDA)** and **Quadratic Discriminant Analysis (QDA)**
+* **Linear Discriminant Analysis (LDA)** and **Quadratic Discriminant Analysis (QDA)**
   Derivation of discriminant functions and comparison of linear vs. quadratic decision boundaries on various datasets.
 
-* 📊 **Model Comparison**
+* **Model Comparison**
   Cross-validated hyperparameter tuning and accuracy evaluation across multiple dataset generations, both synthetic and real (Breast Cancer dataset).
 
 ## 🗂️ Project Structure
