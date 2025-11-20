@@ -1,7 +1,3 @@
-Here’s a concise English README in Markdown for your GitHub project. It’s based on the report you shared and includes the simple project structure you requested.
-
----
-
 # 🧠 Machine Learning – Classification Algorithms
 
 This repository contains an implementation and analysis of several classical machine learning classification methods as part of an academic project. The work explores how different models behave on synthetic and real datasets, with a focus on decision boundaries.
